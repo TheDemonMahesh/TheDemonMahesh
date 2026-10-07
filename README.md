@@ -7,7 +7,7 @@
 
 **Building Intelligent Systems at Scale** | AI • LLMs • Computer Vision • Embedded Systems • Blockchain • Full Stack
 
-[Website](#) • [LinkedIn](https://www.linkedin.com/in/mahesh-goud-075323188/) • [Email](mailto:b.goudmaheshbommagoni@gmail.com) • [Resume](#)
+[Website](https://thedemonmahesh.github.io/Mahesh.portfolio/) • [LinkedIn](https://www.linkedin.com/in/mahesh-goud-075323188/) • [Email](mailto:b.goudmaheshbommagoni@gmail.com) • [Resume](#)
 
 ---
 
